@@ -1,5 +1,5 @@
 features:
   add-sale-persent: true
   show-additional-description: true
-  show-area-properties: false
-  enable-selection: false
+  show-area-properties: true
+  enable-selection: true
