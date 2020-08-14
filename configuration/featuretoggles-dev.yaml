@@ -1,8 +1,8 @@
 features:
   basic:
-    add-sale-persent: false
-    show-additional-description: false
-    show-area-properties: false
+    add-sale-persent: true
+    show-additional-description: true
+    show-area-properties: true
     #  enable-selection: true
     enable-selection: false
   user:
